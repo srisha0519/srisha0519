@@ -21,7 +21,7 @@ To secure an internship, research-oriented role, or entry-level position where I
 
 | Qualification | Institution | University | Year | Score |
 |---------------|------------|------------|------|-------|
-| **M.Tech – Computer Science Engineering** | Dayanand Sagar University, Bangalore | DSU | **2025 – 2027** | Pursuing |
+| **M.Tech – Computer Science Engineering** | Dayanand Sagar University, Bangalore | DSU | 2027 | Pursuing |
 | **B.Tech – Computer Science Engineering** | Avanthi Institute of Engineering and Technology | JNTUH | 2025 | 7.5 CGPA |
 | Intermediate | Narayana Junior College | TSBIE | 2021 | 84% |
 | SSC | Narayana e-Techno School | TSBSE | 2019 | 9.8 CGPA |
